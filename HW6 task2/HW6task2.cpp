@@ -108,4 +108,4 @@ int main() {
 	cout << "date : " << Employee1.getdate() << endl;
 	cout << "shift : " << productionworke1.getshift() << endl;
 	cout << "pay : " << productionworke1.getshift() << endl;
-}
+} 
