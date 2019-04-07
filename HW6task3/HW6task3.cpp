@@ -26,7 +26,7 @@ int  number(int num1) {
 
 
 }
-
+ 
 int main() {
 
 	int n;
